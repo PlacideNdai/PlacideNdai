@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @PlacideNdai
-- 👀 I’m interested in drawing, coding,and learning new things.
-- 🌱 I’m currently learning javascript, css, html, and python.
-- 💞️ I’m looking to collaborate on any projects.
-- 📫 How to reach me message and comments.
+Hello there, 
+Welcome to Placide's page
 
 <!---
 PlacideNdai/PlacideNdai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
